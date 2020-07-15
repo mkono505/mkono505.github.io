@@ -1,4 +1,4 @@
-
+  
 preprint list  
   
 Naoki Kimura, Michinari Kono, and Jun Rekimoto. 2019. SottoVoce: An Ultrasound Imaging-Based Silent Speech Interaction Using Deep Neural Networks. 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), ACM, New York, NY, USA, 10 pages. <a href="https://mkono505.github.io/preprint/sottovoce_chi2019_preprint.pdf">[preprint]</a>    
